@@ -44,5 +44,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.1"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.",
+  "main": "main.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnakae/aspiration.git"
+  },
+  "author": "Hiro Nakae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnakae/aspiration/issues"
+  },
+  "homepage": "https://github.com/hnakae/aspiration#readme"
 }
